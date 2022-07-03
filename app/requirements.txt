@@ -1,0 +1,6 @@
+typing
+fastapi
+pydantic
+api
+uuid
+uvicorn[standard]

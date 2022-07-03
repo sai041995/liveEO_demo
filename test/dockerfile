@@ -1,0 +1,9 @@
+FROM ubuntu
+RUN apt update -y
+RUN apt install software-properties-common -y
+RUN apt install python3-pip -y
+RUN mkdir /test
+
+WORKDIR /test
+
+COPY . .

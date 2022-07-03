@@ -1,0 +1,8 @@
+{
+  "type": "2D",
+  "grid_file": "s3://testcase1.com",
+  "pole_file": "s3://testcase1.com",
+  "critical_distances": [
+    "1","2","3"
+  ]
+}
